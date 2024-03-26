@@ -35,6 +35,7 @@ I'm a beginner frontend developer
  - [Online-store (React)](https://online-store-evgenii.netlify.app/)
  - [YouTube App (Angular)](https://preeminent-custard-bff520.netlify.app)
  - [RSClone Trello (Angular)](https://rsclone-trello.netlify.app/main)
+ - [Task Tracker (Angular)](https://6601aa2cd0ce57189b27796d--magical-hotteok-af72f6.netlify.app/main)
 ---
 
 ### ⚡ Courses
