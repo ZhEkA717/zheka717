@@ -58,8 +58,13 @@ I'm a beginner fullstack developer
   - Angular 2023Q4
   - Mar 2023 - Jun 2023
   <img src="https://zheka717.github.io/resume/images/certificate4.jpg" title="jest" alt="jest" width="300"/>
+
+> The Rolling Scopes School
+  - NodeJS 2024Q1
+  - Jan 2024 - Apr 2024
+  <img src="https://github.com/ZhEkA717/zheka717/assets/72505997/95a1b9c9-b899-44ab-ae6d-16faaaeb7b28" title="jest" alt="jest" width="300"/>
+
 ---
 
 ### 🌍 English - A2
 
----
