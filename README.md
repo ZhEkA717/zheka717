@@ -6,7 +6,7 @@
 ---
 
 ### :man_technologist: About me:
-I'm a beginner fullstack developer 
+I'm a frontent developer 
 
 ---
 
