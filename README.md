@@ -2,7 +2,7 @@
 
 
 # Hello, my name is Evgeniy Grushevskiy!
-№№ Frontend Developer with 3 years of experience, including 2 years of commercial development with Angular. Specializing in building complex client-side applications. Has experience with Node.js backend development, enabling effective collaboration with the team and API optimization.
+## Frontend Developer with 3 years of experience, including 2 years of commercial development with Angular. Specializing in building complex client-side applications. Has experience with Node.js backend development, enabling effective collaboration with the team and API optimization.
 
 ---
 
