@@ -37,7 +37,8 @@ I'm a frontent developer
 ---
 
 ### 📈 My Projects
-- [srm (Anfular)](https://srm.armtek.ru/)
+- [SRM (Anfular)](https://srm.armtek.ru/)
+- [Airways (Anfular)](https://airways-flight.netlify.app/main)
 - [RSClone Trello (Angular)](https://rsclone-trello.netlify.app/main)
 - [YouTube App (Angular)](https://preeminent-custard-bff520.netlify.app)
 - [SnakeGame (JS)](https://zheka717.github.io/SnakeGame/)
