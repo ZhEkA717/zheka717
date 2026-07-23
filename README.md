@@ -37,6 +37,7 @@ Frontend Developer with 3 years of experience, including 2 years of commercial d
 
 ### 📈 My Projects
 - [SRM (Anfular)](https://srm.armtek.ru/)
+- [Clubs-network (Anfular)](https://clubs-network.netlify.app/)
 - [Airways (Anfular)](https://airways-flight.netlify.app/main)
 - [RSClone Trello (Angular)](https://rsclone-trello.netlify.app/main)
 - [YouTube App (Angular)](https://preeminent-custard-bff520.netlify.app)
