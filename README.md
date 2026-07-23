@@ -38,14 +38,9 @@ I'm a frontent developer
 
 ### 📈 My Projects
  - [1-face-cleaning (HTML, CSS)](https://zheka717.github.io/1-face-cleaning/)
- - [Online-zoo (HTML, SCSS, JS)](https://rolling-scopes-school.github.io/zheka717-JSFE2022Q3/online-zoo/)
  - [SnakeGame (JS)](https://zheka717.github.io/SnakeGame/)
- - [Gem-puzzle (JS)](https://rolling-scopes-school.github.io/zheka717-JSFE2022Q3/gem-puzzle/)
- - [Songbird (JS)](https://rolling-scopes-school.github.io/zheka717-JSFE2022Q3/songbird/)
- - [Online-store (React)](https://online-store-evgenii.netlify.app/)
  - [YouTube App (Angular)](https://preeminent-custard-bff520.netlify.app)
  - [RSClone Trello (Angular)](https://rsclone-trello.netlify.app/main)
- - [Task Tracker (Angular)](https://6601aa2cd0ce57189b27796d--magical-hotteok-af72f6.netlify.app/main)
 ---
 
 ### ⚡ Courses
