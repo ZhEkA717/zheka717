@@ -36,12 +36,12 @@ Frontend Developer with 3 years of experience, including 2 years of commercial d
 ---
 
 ### 📈 My Projects
-- [SRM (Angular)](https://srm.armtek.ru/)
-- [Clubs-network (Angular)](https://clubs-network.netlify.app/)
-- [Airways (Angular)](https://airways-flight.netlify.app/main)
-- [RSClone Trello (Angular)](https://rsclone-trello.netlify.app/main)
-- [YouTube App (Angular)](https://preeminent-custard-bff520.netlify.app)
-- [SnakeGame (JS)](https://zheka717.github.io/SnakeGame/)
+- [SRM (Angular 20+, custom Ui )](https://srm.armtek.ru/)
+- [Clubs-network (Angular 21+, PrimeNg)](https://clubs-network.netlify.app/)
+- [Airways (Angular 15+)](https://airways-flight.netlify.app/main)
+- [RSClone Trello (Angular 15+)](https://rsclone-trello.netlify.app/main)
+- [YouTube App (Angular 15+)](https://preeminent-custard-bff520.netlify.app)
+- [SnakeGame (JS, HTML, CSS)](https://zheka717.github.io/SnakeGame/)
 - [1-face-cleaning (HTML, CSS)](https://zheka717.github.io/1-face-cleaning/)
  
  
