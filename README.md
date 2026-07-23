@@ -42,7 +42,8 @@ Frontend Developer with 3 years of experience, including 2 years of commercial d
 - [Clubs-network (Angular 21+, PrimeNg)](https://clubs-network.netlify.app/)
 - [YouTube App (Angular 15+)](https://preeminent-custard-bff520.netlify.app)
 - [SnakeGame (JS, HTML, CSS)](https://zheka717.github.io/SnakeGame/)
-- [Online-zoo (JS, HTML, CSS)](https://zheka717.github.io/java-script-project/online-zoo/)https://zheka717.github.io/java-script-project/gem-puzzle/
+- [Online-zoo (JS, HTML, CSS)](https://zheka717.github.io/java-script-project/online-zoo/)
+- [Pizza-cheff (Angular 21+, taiga-ui)](https://zheka717.github.io/pizza-cheff/)
 - [Gem-puzzle (JS, HTML, CSS)](https://zheka717.github.io/java-script-project/gem-puzzle/)
 - [1-face-cleaning (HTML, CSS)](https://zheka717.github.io/1-face-cleaning/)
  
