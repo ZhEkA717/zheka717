@@ -37,6 +37,7 @@ Frontend Developer with 3 years of experience, including 2 years of commercial d
 
 ### 📈 My Projects
 - [SRM (Angular 20+, custom Ui )](https://srm.armtek.ru/)
+- [Online-store (React 18+, firebase )](https://online-store-nine-sigma.vercel.app/)
 - [Airways (Angular 15+)](https://airways-flight.netlify.app/main)
 - [RSClone Trello (Angular 15+)](https://rsclone-trello.netlify.app/main)
 - [Clubs-network (Angular 21+, PrimeNg)](https://clubs-network.netlify.app/)
