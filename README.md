@@ -41,7 +41,6 @@ Frontend Developer with 3 years of experience, including 2 years of commercial d
 - [Airways (Angular 15+)](https://airways-flight.netlify.app/main)
 - [RSClone Trello (Angular 15+)](https://rsclone-trello.netlify.app/main)
 - [Clubs-network (Angular 21+, PrimeNg)](https://clubs-network.netlify.app/)
-- [YouTube App (Angular 15+)](https://preeminent-custard-bff520.netlify.app)
 - [SnakeGame (JS, HTML, CSS)](https://zheka717.github.io/SnakeGame/)
 - [Online-zoo (JS, HTML, CSS)](https://zheka717.github.io/java-script-project/online-zoo/)
 - [Pizza-cheff (Angular 21+, taiga-ui)](https://zheka717.github.io/pizza-cheff/)
